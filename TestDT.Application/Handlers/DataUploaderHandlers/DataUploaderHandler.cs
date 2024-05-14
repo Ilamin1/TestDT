@@ -199,11 +199,11 @@ public class DataUploaderHandler : IRequestHandler<DataUploadCommand, Unit>
 
     private static void ConvertFieldFlag(DataRow row)
     {
-        row["store_and_fwd_flag"] = row["store_and_fwd_flag"].ToString() switch
+        row[DataUploadConstants.FlagColumnName] = row[DataUploadConstants.FlagColumnName].ToString() switch
         {
             "N" => "No",
             "Y" => "Yes",
-            _ => row["store_and_fwd_flag"]
+            _ => row[DataUploadConstants.FlagColumnName]
         };
     }
 }

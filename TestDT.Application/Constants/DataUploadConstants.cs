@@ -16,4 +16,6 @@ public static class DataUploadConstants
     ];
 
     public const string DuplicatesFileName = "duplicates.csv";
+
+    public const string FlagColumnName = "store_and_fwd_flag";
 }
