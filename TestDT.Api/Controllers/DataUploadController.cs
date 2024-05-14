@@ -1,5 +1,4 @@
-﻿using System.Diagnostics;
-using MediatR;
+﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using TestDT.Api.Builders;
 using TestDT.Application.Models.Base;

@@ -2,9 +2,9 @@
 
 public class SqlQueriesConstants
 {
-    public const string CreateMainTableQuery = $$"""
+    public const string CreateMainTableQuery = $"""
                                                
-                                                           CREATE TABLE {{DbConstants.TableName}}
+                                                           CREATE TABLE {DbConstants.TableName}
                                                            (
                                                                tpep_pickup_datetime DATETIME,
                                                                tpep_dropoff_datetime DATETIME,
@@ -17,11 +17,11 @@ public class SqlQueriesConstants
                                                                tip_amount DECIMAL(10, 2)
                                                            );
                                                
-                                                           CREATE CLUSTERED INDEX IX_PULocationID ON {{DbConstants.TableName}} (PULocationID);
-                                                           CREATE INDEX IX_tip_amount ON {{DbConstants.TableName}} (tip_amount);
-                                                           CREATE INDEX IX_trip_distance ON {{DbConstants.TableName}} (trip_distance);
-                                                           CREATE INDEX IX_pickup_datetime ON {{DbConstants.TableName}} (tpep_pickup_datetime);
-                                                           CREATE INDEX IX_dropoff_datetime ON {{DbConstants.TableName}} (tpep_dropoff_datetime);
+                                                           CREATE CLUSTERED INDEX IX_PULocationID ON {DbConstants.TableName} (PULocationID);
+                                                           CREATE INDEX IX_tip_amount ON {DbConstants.TableName} (tip_amount);
+                                                           CREATE INDEX IX_trip_distance ON {DbConstants.TableName} (trip_distance);
+                                                           CREATE INDEX IX_pickup_datetime ON {DbConstants.TableName} (tpep_pickup_datetime);
+                                                           CREATE INDEX IX_dropoff_datetime ON {DbConstants.TableName} (tpep_dropoff_datetime);
                                                """;
 
     public const string CheckDbExist =

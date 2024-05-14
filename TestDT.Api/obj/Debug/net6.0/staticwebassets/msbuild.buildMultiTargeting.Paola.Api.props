@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Paola.Api.props" />
-</Project>
