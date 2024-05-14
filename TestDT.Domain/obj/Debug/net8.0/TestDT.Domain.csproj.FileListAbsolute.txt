@@ -1,0 +1,11 @@
+C:\Users\ilami\RiderProjects\Test\TestDT.Domain\bin\Debug\net8.0\TestDT.Domain.deps.json
+C:\Users\ilami\RiderProjects\Test\TestDT.Domain\bin\Debug\net8.0\TestDT.Domain.dll
+C:\Users\ilami\RiderProjects\Test\TestDT.Domain\bin\Debug\net8.0\TestDT.Domain.pdb
+C:\Users\ilami\RiderProjects\Test\TestDT.Domain\obj\Debug\net8.0\TestDT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilami\RiderProjects\Test\TestDT.Domain\obj\Debug\net8.0\TestDT.Domain.AssemblyInfoInputs.cache
+C:\Users\ilami\RiderProjects\Test\TestDT.Domain\obj\Debug\net8.0\TestDT.Domain.AssemblyInfo.cs
+C:\Users\ilami\RiderProjects\Test\TestDT.Domain\obj\Debug\net8.0\TestDT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ilami\RiderProjects\Test\TestDT.Domain\obj\Debug\net8.0\TestDT.Domain.dll
+C:\Users\ilami\RiderProjects\Test\TestDT.Domain\obj\Debug\net8.0\refint\TestDT.Domain.dll
+C:\Users\ilami\RiderProjects\Test\TestDT.Domain\obj\Debug\net8.0\TestDT.Domain.pdb
+C:\Users\ilami\RiderProjects\Test\TestDT.Domain\obj\Debug\net8.0\ref\TestDT.Domain.dll

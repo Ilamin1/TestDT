@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TestDT.Api.props" />
+</Project>

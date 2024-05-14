@@ -1,0 +1,12 @@
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\bin\Debug\net6.0\Paola.Domain.deps.json
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\bin\Debug\net6.0\Paola.Domain.dll
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\bin\Debug\net6.0\Paola.Domain.pdb
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\obj\Debug\net6.0\Paola.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\obj\Debug\net6.0\Paola.Domain.AssemblyInfoInputs.cache
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\obj\Debug\net6.0\Paola.Domain.AssemblyInfo.cs
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\obj\Debug\net6.0\Paola.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\obj\Debug\net6.0\Paola.Domain.sourcelink.json
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\obj\Debug\net6.0\Paola.Domain.dll
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\obj\Debug\net6.0\refint\Paola.Domain.dll
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\obj\Debug\net6.0\Paola.Domain.pdb
+C:\Users\ilami\RiderProjects\Paola\Paola.Domain\obj\Debug\net6.0\ref\Paola.Domain.dll

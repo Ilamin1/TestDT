@@ -1,0 +1,15 @@
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\bin\Debug\net8.0\TestDT.Application.deps.json
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\bin\Debug\net8.0\TestDT.Application.dll
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\bin\Debug\net8.0\TestDT.Application.pdb
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\bin\Debug\net8.0\TestDT.Domain.dll
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\bin\Debug\net8.0\TestDT.Domain.pdb
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\obj\Debug\net8.0\TestDT.Application.csproj.AssemblyReference.cache
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\obj\Debug\net8.0\TestDT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\obj\Debug\net8.0\TestDT.Application.AssemblyInfoInputs.cache
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\obj\Debug\net8.0\TestDT.Application.AssemblyInfo.cs
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\obj\Debug\net8.0\TestDT.Application.csproj.CoreCompileInputs.cache
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\obj\Debug\net8.0\TestDT.A.F54CAFF2.Up2Date
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\obj\Debug\net8.0\TestDT.Application.dll
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\obj\Debug\net8.0\refint\TestDT.Application.dll
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\obj\Debug\net8.0\TestDT.Application.pdb
+C:\Users\ilami\RiderProjects\Test\TestDT.Application\obj\Debug\net8.0\ref\TestDT.Application.dll
