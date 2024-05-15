@@ -1,6 +1,6 @@
 ﻿namespace TestDT.Application.Constants;
 
-public class SqlQueriesConstants
+public static class SqlQueriesConstants
 {
     public const string CreateMainTableQuery = $"""
                                                
