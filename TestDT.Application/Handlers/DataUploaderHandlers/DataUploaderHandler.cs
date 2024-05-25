@@ -123,7 +123,7 @@ public class DataUploaderHandler : IRequestHandler<DataUploadCommand, Unit>
         var uniqueRecords = new HashSet<string>();
         foreach (DataRow row in dataTable.Rows)
         {
-            var recordKey = GetFieldUniquePatter(row);
+            var recordKey = GetFieldUniquePattern(row);
             // NOTE: Check if the current record is unique.
             // If the record is unique, the Add method will return true, and we add its key to the uniqueRecords HashSet.
             // If the record is not unique, the Add method will return false, and we keep it as a duplicate.
@@ -137,7 +137,7 @@ public class DataUploaderHandler : IRequestHandler<DataUploadCommand, Unit>
         return duplicateRows;
     }
 
-    private static string GetFieldUniquePatter(DataRow row)
+    private static string GetFieldUniquePattern(DataRow row)
     {
         return $"{row["tpep_pickup_datetime"]}|{row["tpep_dropoff_datetime"]}|{row["passenger_count"]}";
     }
